@@ -1,0 +1,5 @@
+//change directory to the path where you are saving the file
+C:\java programming>javac (class name in which the main function is present)DefaultValues.java
+//the file is compiled
+//for running the file
+C:\java programming> java (class name)DefaultValues
